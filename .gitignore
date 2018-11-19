@@ -4,4 +4,3 @@ bin
 *.iml
 !.travis.yml
 !.gitignore
-docker-compose.override.yml
